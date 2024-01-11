@@ -18,9 +18,15 @@ git init
 ```
 
 ## Hacer referencia desde el repositorio Local con el repositorio remoto
-
 ```
 git remote add origin https://github.com/ABRAHAM2J/back_laravue.git
+```
+---
+## Para actualizar los cambios 
+```
+git add .
+git commit -m "Nuevo Proyecto Laravel BD"
+git push origin master
 ```
 
 
